@@ -1,4 +1,4 @@
-# Monitor ///
+# Phosphor CRT
 
 A vintage monochrome theme for [Obsidian](https://obsidian.md), inspired by the green phosphor monitors of the early 1980s — the kind that sat on desks connected to Apple IIs, glowing softly in dim rooms.
 
@@ -14,15 +14,15 @@ Full monospace type, chunky UPPERCASE headings with a `]` BASIC-prompt prefix, b
 
 1. Open **Settings → Appearance**
 2. Scroll to **Themes**, click **Manage**
-3. Search for **Monitor ///**
+3. Search for **Phosphor CRT**
 4. Click **Install** and then **Use**
 
 ### Manual installation
 
 1. Download `manifest.json` and `theme.css` from this repo
-2. Create a folder named `Monitor ///` inside your vault's `.obsidian/themes/` directory
+2. Create a folder named `phosphor-crt-theme` inside your vault's `.obsidian/themes/` directory
 3. Place both files in that folder
-4. In Obsidian, go to **Settings → Appearance → Themes** and select **Monitor ///**
+4. In Obsidian, go to **Settings → Appearance → Themes** and select **Phosphor CRT**
 
 ## Features
 
